@@ -21,7 +21,7 @@ Kelas ini berisikan method-method untuk menampilkan tampilan dan juga terdapat f
 2. setTable -> method yang berfungsi untuk membuat table
 3. insertData -> method yang berfungsi untuk menambahkan mahasiswa data pada tabel
 4. checkNIMDatabase -> method yang berfungsi untuk mengecek apakah NIM sudah ada di database
-5. updateData > method yang berfungsi untuk mengubah data yang tersedia pada tabel
+5. updateData -> method yang berfungsi untuk mengubah data yang tersedia pada tabel
 6. deleteData -> method yang berfungsi untuk menghapus satu baris data dari tabel
 7. clearForm -> method yang berfungsi untuk menghapus data pada form tabel menjadi kosong kembali
 
@@ -30,6 +30,9 @@ Kelas ini adalah kelas untuk membuat sistem CRUD databse yang didalamnya terdapa
 1. Database -> method yang berfungsi sebagai constructor
 2. ResultSet -> method yang berfungsi untuk SELECT
 3. insertUpdateDeleteQuery -> method yang berfungsi untuk INSERT, UPDATE, dan DELETE data
+
+### Desain Database Mahasiswa
+![image](https://github.com/Aliffaturahman/TP2DPBO2024C1/assets/100842759/d5152a79-7a07-470b-add0-9654dd3c5694)
 
 ## PENJELASAN ALUR
 * Untuk judul "Daftar Mahasiswa" dan owner "*By Alif Faturahman Firdaus*" menggunakan swing controls JLabel, kemudian untuk "NIM", "Nama", "Jenis Kelamin", "Hobby", dan "MBTI" juga menggunakan swing controls JLabel. 
