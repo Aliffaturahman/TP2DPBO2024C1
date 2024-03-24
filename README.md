@@ -12,10 +12,10 @@ Lanjutkan program LP5 yang sudah kamu buat, lalu tambahkan koneksi dengan databa
 ## DESAIN PROGRAM
 Program ini teridiri dari 3 kelas :
 
-### Class Mahasiswa  
+### A. Class Mahasiswa  
 Kelas ini adalah kelas untuk membuat objek mahasiswa yang didalamnya terdapat 5 atribut, diantaranya nim (string), nama (string), jenisKelamin (string), hobby (string) dan mbti (string). Terdapat juga setter dan getter untuk setiap atributnya.
 
-### Class Menu  
+### B. Class Menu  
 Kelas ini berisikan method-method untuk menampilkan tampilan dan juga terdapat fitur-fitur yang memiliki fungsi beragam didalam program, diantaranya :
 1. Menu -> method yang berfungsi sebagai pilar utama dari jalan kerja program
 2. setTable -> method yang berfungsi untuk membuat table
@@ -25,13 +25,13 @@ Kelas ini berisikan method-method untuk menampilkan tampilan dan juga terdapat f
 6. deleteData -> method yang berfungsi untuk menghapus satu baris data dari tabel
 7. clearForm -> method yang berfungsi untuk menghapus data pada form tabel menjadi kosong kembali
 
-### Class Database  
+### C. Class Database  
 Kelas ini adalah kelas untuk membuat sistem CRUD databse yang didalamnya terdapat 3 method, diantaranya 
 1. Database -> method yang berfungsi sebagai constructor
 2. ResultSet -> method yang berfungsi untuk SELECT
 3. insertUpdateDeleteQuery -> method yang berfungsi untuk INSERT, UPDATE, dan DELETE data
 
-### Desain Database Mahasiswa
+### * Desain Database Mahasiswa
 ![image](https://github.com/Aliffaturahman/TP2DPBO2024C1/assets/100842759/d5152a79-7a07-470b-add0-9654dd3c5694)
 
 ## PENJELASAN ALUR
@@ -48,7 +48,7 @@ Melakukan penambahan data dengan beberapa kolom tidak terisi sehingga memunculka
 
 Berikut ini adalah video demo dari programnya.  
 
-**_( besarkan volume untuk mendengarkan penjelasan video )_**
+**_( besarkan volume untuk mendengarkan penjelasan demo video )_**
 
 https://github.com/Aliffaturahman/TP2DPBO2024C1/assets/100842759/5522351a-258b-4f12-b468-603eb56fb05c
 
